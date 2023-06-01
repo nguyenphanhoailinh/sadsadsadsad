@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karaokeWEBAPI", "karaokeWEBAPI.csproj", "{37DAF941-03EA-4717-BD89-715438C786ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37DAF941-03EA-4717-BD89-715438C786ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DAF941-03EA-4717-BD89-715438C786ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DAF941-03EA-4717-BD89-715438C786ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DAF941-03EA-4717-BD89-715438C786ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89382453-B381-4731-8D24-57C6BEF16F3E}
+	EndGlobalSection
+EndGlobal
